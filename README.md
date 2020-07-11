@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I'm Tiago Soriano 👋
+A Front end developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
 
-<!--
-**tiago-web/tiago-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning SOLID, Docker and TypeScript
+- 🧐 I’m looking for an entry level position with the JavaScript stack
+- 💬 Ask me about creating hobbies, healthy habits or time management
+- ⚡ Technologies: React, Node, React-Native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to reach me 📫
+[![Linkedin Badge](https://img.shields.io/badge/-tiagosoriano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagosoriano/)](https://www.linkedin.com/in/tiagosoriano/)
+[![Gmail Badge](https://img.shields.io/badge/-tiagosoriano2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagosoriano2000@gmail.com)](mailto:tiagosoriano2000@gmail.com)

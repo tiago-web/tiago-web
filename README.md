@@ -1,5 +1,5 @@
-## Hi, I'm Tiago Soriano 👋
-A Front end developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
+## Hi, I'm Tiago Soriano 👋👨‍💻
+A Front end developer who is passionate about JavaScript technologies and its environment.
 
 ## About me
 

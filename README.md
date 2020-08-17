@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/tiago-web/tiago-web/blob/master/images/illustration.png" width="300"/>
+
 ## Hi, I'm Tiago Soriano 👋
 A Front end developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
 

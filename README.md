@@ -3,8 +3,8 @@ A Front end developer 👨‍💻 who is passionate about JavaScript technologie
 
 ## About me
 
-- 🌱 I’m currently learning SOLID, Docker and TypeScript
-- 🧐 I’m looking for an entry level position with the JavaScript stack
+- 🌱 I’m currently learning SOLID, TypeScript, and always improving my React skills
+- 🧐 I’m looking for an entry level position with ReactJS and/or React Native
 - 💬 Ask me about creating hobbies, healthy habits or time management
 - ⚡ Technologies: React, Node, React-Native
 

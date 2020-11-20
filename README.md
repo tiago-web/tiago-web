@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/tiago-web/tiago-web/blob/master/images/illustration2.svg" width="330"/>
+<a href="https://www.linkedin.com/in/tiago-soriano/"><img align="right" src="https://github.com/tiago-web/tiago-web/blob/master/images/illustration2.svg" width="330"/></a>
 
 ## Hi, I'm Tiago Soriano 👋
 A Front end developer who is passionate about JavaScript technologies and its entire ecosystem.

@@ -1,12 +1,11 @@
 <a href="https://www.linkedin.com/in/tiago-soriano/"><img align="right" src="https://github.com/tiago-web/tiago-web/blob/master/images/illustration2.svg" width="330"/></a>
 
 ## Hi, I'm Tiago Soriano 👋
-A Full Stack developer who is passionate about JavaScript technologies and its entire ecosystem.
+A Full Stack developer who is passionate about creating software that can change people's lives.
 
 ## About me 👨‍💻
-- 📚 I’m currently learning NestJS, GraphQL and Flutter
-- 💬 Ask me about creating hobbies, healthy habits or time management
-- ⚡ Technologies: TypeScript, NodeJS, ReactJS, React-Native
+- 📚 I’m currently learning more about Solidity
+- ⚡ Technologies: TypeScript, NodeJS, ReactJS, Web3 and Solidity
 
 ## How to reach me 📫
 [![Linkedin Badge](https://img.shields.io/badge/-tiagosoriano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagosoriano/)](https://www.linkedin.com/in/tiagosoriano/)

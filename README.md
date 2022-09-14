@@ -9,4 +9,4 @@ A Full Stack developer who is passionate about creating software that can change
 
 ## How to reach me 📫
 [![Linkedin Badge](https://img.shields.io/badge/-tiagosoriano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagosoriano/)](https://www.linkedin.com/in/tiagosoriano/)
-[![Gmail Badge](https://img.shields.io/badge/-tiagosoriano2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagosoriano2000@gmail.com)](mailto:tiagosoriano2000@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-contact@tiagosoriano.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@tiagosoriano.dev)](mailto:contact@tiagosoriano.dev)

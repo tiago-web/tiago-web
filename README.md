@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/tiago-soriano/"><img align="right" src="https://github.com/tiago-web/tiago-web/blob/master/images/illustration2.svg" width="330"/></a>
 
 ## Hi, I'm Tiago Soriano 👋
-A Full Stack developer who is passionate about creating software that can change people's lives.
+A Full Stack Blockchain Developer who is passionate about creating software that can change people's lives.
 
 ## About me 👨‍💻
 - 📚 I’m currently learning more about Smart Contract Vulnerabilities

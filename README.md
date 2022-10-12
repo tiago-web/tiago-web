@@ -4,8 +4,9 @@
 A Full Stack developer who is passionate about creating software that can change people's lives.
 
 ## About me 👨‍💻
-- 📚 I’m currently learning more about Solidity
+- 📚 I’m currently learning more about Smart Contract Vulnerabilities
 - ⚡ Technologies: TypeScript, NodeJS, ReactJS, Web3 and Solidity
+- 🐱‍👤 I've experience with: nextJS, chai, jest, ethers.js, web3.js, nestJS, express, hardhat, truffle, ganache, etc.
 
 ## How to reach me 📫
 [![Linkedin Badge](https://img.shields.io/badge/-tiagosoriano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagosoriano/)](https://www.linkedin.com/in/tiagosoriano/)

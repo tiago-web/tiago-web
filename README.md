@@ -4,9 +4,9 @@
 A Full Stack Blockchain Developer who is passionate about creating software that can change people's lives.
 
 ## About me 👨‍💻
-- 📚 I’m currently learning more about Smart Contract Vulnerabilities
-- ⚡ Technologies: TypeScript, NodeJS, ReactJS, Web3 and Solidity
-- 🐱‍👤 I've experience with: nextJS, chai, jest, ethers.js, web3.js, nestJS, express, hardhat, truffle, ganache, etc.
+- ⚡ Technologies I'm proficiant with: TypeScript, NodeJS, ReactJS, Web3 and Solidity
+- 🐱‍👤 I've experience with: NextJS, NestJS, GraphQL, WebSocket, Rest APIs, Microservices, etc.
+- 📚 I’m currently learning more about System Design, Solana and WebRTC.
 
 ## How to reach me 📫
 [![Linkedin Badge](https://img.shields.io/badge/-tiagosoriano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagosoriano/)](https://www.linkedin.com/in/tiagosoriano/)

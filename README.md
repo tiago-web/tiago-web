@@ -1,12 +1,14 @@
 <a href="https://www.linkedin.com/in/tiago-soriano/"><img align="right" src="https://github.com/tiago-web/tiago-web/blob/master/images/illustration2.svg" width="330"/></a>
 
 ## Hi, I'm Tiago Soriano 👋
-A Full Stack Blockchain Developer who is passionate about creating software that can change people's lives.
+A passionate Full Stack Blockchain Developer with a knack for building applications that matter.
 
 ## About me 👨‍💻
-- ⚡ Technologies I'm proficiant with: TypeScript, NodeJS, ReactJS, Web3 and Solidity
-- 🐱‍👤 I've experience with: NextJS, NestJS, GraphQL, WebSocket, Rest APIs, Microservices, etc.
-- 📚 I’m currently learning more about System Design, Solana and WebRTC.
+- ⚡ Proficient in: TypeScript, Node.js, React.js, Solidity, Web3.js, and the Ethereum Virtual Machine (EVM).
+- 👨‍💼 Strong professional background in smart contract development, NFT marketplaces, and web applications.
+- 🐱‍👤 Experienced with: Next.js, Nest.js, GraphQL, WebSocket, REST APIs, Microservices, AWS services, CI/CD pipelines, and more.
+- 📚 Currently deepening my knowledge in System Design, exploring the Solana blockchain ecosystem, and getting hands-on with WebRTC.
+- 📈 Dedicated to continuous learning and keeping up with the latest industry trends.
 
 ## How to reach me 📫
 [![Linkedin Badge](https://img.shields.io/badge/-tiagosoriano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagosoriano/)](https://www.linkedin.com/in/tiagosoriano/)
